@@ -1,0 +1,12 @@
+# Bybit - Loon / Surge .list
+# 来源：xiongking/clash_rules crypt.yaml（8 条域名，转为 Loon 远程规则格式）
+# 用法：在 Loon 配置的 [Remote Rule] 里加一行：
+# https://<订阅地址>/Bybit.list, policy=你想走的策略组, tag=Bybit, enabled=true
+DOMAIN-SUFFIX,bybit.com
+DOMAIN-SUFFIX,bybit.biz
+DOMAIN-SUFFIX,bybit-aws.com
+DOMAIN-SUFFIX,monitor-frontend-collector.a.bybit-aws.com
+DOMAIN-SUFFIX,bybdc6.com
+DOMAIN-SUFFIX,byabcde.com
+DOMAIN-SUFFIX,byapps.net
+DOMAIN-SUFFIX,byd3c3.com
